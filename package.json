@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz-module",
+  "version": "1.0.0",
+  "description": "creates fizzbuzz strings for an inserted number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partynuts/fizzbuzz-module.git"
+  },
+  "author": "proghany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/partynuts/fizzbuzz-module/issues"
+  },
+  "homepage": "https://github.com/partynuts/fizzbuzz-module#readme"
+}
