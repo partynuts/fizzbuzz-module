@@ -1,5 +1,5 @@
 {
-  "name": "fizzbuzz-module",
+  "name": "fizzbuzz-module-cli",
   "version": "1.0.0",
   "description": "creates fizzbuzz strings for an inserted number",
   "main": "index.js",
